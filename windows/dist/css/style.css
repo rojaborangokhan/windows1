@@ -7,7 +7,7 @@ body{
 	height: 100% !important;
 	overflow: hidden;
 	font-family: 'Open Sans', sans-serif;
-	background: #000;
+	background: red;
 }
 *{
 	outline: none;
