@@ -33,7 +33,7 @@
 			<li id="d-btn" class="desktop-btn-li sortableList">
 				<button type="button" class="desktop-btn ">
 					<i class="fa fa-vimeo"></i>
-					<span>Vimeo</span>
+					<span>Vimeo boran</span>
 				</button>
 			</li>
 			<li id="d-btn" class="desktop-btn-li sortableList  youtube">
