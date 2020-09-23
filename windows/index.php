@@ -21,7 +21,7 @@
 			<li id="d-btn" class="desktop-btn-li sortableList ">
 				<button type="button" class="desktop-btn ">
 					<i class="fa fa-instagram"></i>
-					<span>Instagram</span>
+					<span>Instagram boran</span>
 				</button>
 			</li>
 			<li id="d-btn" class="desktop-btn-li sortableList google">
@@ -33,7 +33,7 @@
 			<li id="d-btn" class="desktop-btn-li sortableList">
 				<button type="button" class="desktop-btn ">
 					<i class="fa fa-vimeo"></i>
-					<span>Vimeo boran</span>
+					<span>Vimeo</span>
 				</button>
 			</li>
 			<li id="d-btn" class="desktop-btn-li sortableList  youtube">
