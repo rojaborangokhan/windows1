@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600;800&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="dist/css/style.css">
-	<title>Windows2</title>
+	<title>Windows23</title>
 </head>
 <body>
 	<section id="desktop-items">
